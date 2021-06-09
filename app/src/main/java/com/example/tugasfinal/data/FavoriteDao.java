@@ -7,7 +7,7 @@ import androidx.room.Insert;
 import androidx.room.OnConflictStrategy;
 import androidx.room.Query;
 
-import com.example.tugasfinalpemrogramanmobile.models.ApiModel;
+import com.example.tugasfinal.models.ApiModel;
 
 import java.util.List;
 
